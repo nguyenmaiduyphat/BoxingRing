@@ -6,8 +6,38 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/EZ Assets/Scenes/Start Screen.unity
+    guid: b6b3980e127398449b3f1e2fb9a8351e
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/Level 1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/Level 2.unity
+    guid: 5d6352e4631e1b54397c4f441af847fe
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/Level 3.unity
+    guid: 0358d9e25cd463a45a9d2224c40de877
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/Level 4.unity
+    guid: 002fd3c4d64eb914dac919ee6d727444
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/Level 5.unity
+    guid: d8a5f9d4df67acd429eaed96adcce175
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/Level 6.unity
+    guid: f5cf33a71a332bb4c8657b53f73eef70
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/Level 7.unity
+    guid: d31a366a42e3dec4f9ee4ae7dbe994e2
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/Level 8.unity
+    guid: eab733233772d4a489aedc18ba068018
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/Level 9.unity
+    guid: 6ccfec93ecf4375499fa76ebb3ad59fa
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/Level 10.unity
+    guid: 0e6fe6000b3e18148861f4742a816de6
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 9227e98e4b6e046c5b175924d7b5d070, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
